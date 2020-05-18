@@ -1,0 +1,9 @@
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\bin\Debug\netcoreapp2.2\MVC.Contract.deps.json
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\bin\Debug\netcoreapp2.2\MVC.Contract.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\bin\Debug\netcoreapp2.2\MVC.Contract.pdb
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\obj\Debug\netcoreapp2.2\MVC.Contract.csprojAssemblyReference.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\obj\Debug\netcoreapp2.2\MVC.Contract.csproj.CoreCompileInputs.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\obj\Debug\netcoreapp2.2\MVC.Contract.AssemblyInfoInputs.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\obj\Debug\netcoreapp2.2\MVC.Contract.AssemblyInfo.cs
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\obj\Debug\netcoreapp2.2\MVC.Contract.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Contract\obj\Debug\netcoreapp2.2\MVC.Contract.pdb

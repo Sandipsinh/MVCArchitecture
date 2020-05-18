@@ -1,0 +1,9 @@
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\bin\Debug\netcoreapp2.2\MVC.GlobalAPI.deps.json
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\bin\Debug\netcoreapp2.2\MVC.GlobalAPI.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\bin\Debug\netcoreapp2.2\MVC.GlobalAPI.pdb
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\obj\Debug\netcoreapp2.2\MVC.GlobalAPI.csprojAssemblyReference.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\obj\Debug\netcoreapp2.2\MVC.GlobalAPI.csproj.CoreCompileInputs.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\obj\Debug\netcoreapp2.2\MVC.GlobalAPI.AssemblyInfoInputs.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\obj\Debug\netcoreapp2.2\MVC.GlobalAPI.AssemblyInfo.cs
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\obj\Debug\netcoreapp2.2\MVC.GlobalAPI.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.GlobalAPI\obj\Debug\netcoreapp2.2\MVC.GlobalAPI.pdb

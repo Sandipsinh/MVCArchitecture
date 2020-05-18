@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MVC.Service/1.0.0": {
+        "dependencies": {
+          "MVC.Contract": "1.0.0",
+          "MVC.GlobalAPI": "1.0.0",
+          "Newtonsoft.Json": "11.0.0.0"
+        },
+        "runtime": {
+          "MVC.Service.dll": {}
+        }
+      },
+      "MVC.Contract/1.0.0": {
+        "runtime": {
+          "MVC.Contract.dll": {}
+        }
+      },
+      "MVC.GlobalAPI/1.0.0": {
+        "runtime": {
+          "MVC.GlobalAPI.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVC.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC.GlobalAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

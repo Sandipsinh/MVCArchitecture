@@ -1,0 +1,16 @@
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.Service.deps.json
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.Service.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.Service.pdb
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.Contract.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.GlobalAPI.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.Contract.pdb
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\MVC.GlobalAPI.pdb
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.csprojAssemblyReference.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.csproj.CoreCompileInputs.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.AssemblyInfoInputs.cache
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.AssemblyInfo.cs
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.csproj.CopyComplete
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.dll
+D:\Projects\MVCAppWithRepositoryPattern\MVC.Service\obj\Debug\netcoreapp2.2\MVC.Service.pdb
